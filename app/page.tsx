@@ -37,7 +37,7 @@ export default function Page() {
           Escaping the 9–5 So I Can Be Present for the Moments That Actually Matter
         </h2>
         <div className="mt-8">
-          <a href="/signup" className="inline-block bg-[#f5dede] text-gray-800 font-semibold px-8 py-4 rounded-2xl hover:bg-[#f7cfcf] transition-colors">
+          <a href="https://partner.mightypreneur.com/getstarted?fpr=melissa73" className="inline-block bg-[#f5dede] text-gray-800 font-semibold px-8 py-4 rounded-2xl hover:bg-[#f7cfcf] transition-colors">
             Start Your Journey Today
           </a>
         </div>
